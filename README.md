@@ -1,5 +1,11 @@
 # PHISbokp
 WARNING INI HANYA UNTUK BAHAN ISENG
+
+# TUTORIAL RUN
+1: run node server2.js atau node server.js
+
+2: run ngrok http 3000
+
 # PAKET YANG HARUS DI INSTALL 
 $ npm install express
 
