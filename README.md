@@ -4,10 +4,15 @@ WARNING INI HANYA UNTUK BAHAN ISENG
 $ npm install express
 
 $ npm install body-parser
+
 $ npm install fs
+
 $ npm install path
+
 $ npm install request-ip
+
 $ npm install geoip-lite
+
 $ npm install axios
 
 # HARUS NODE VERSI Node.js v20.11.1.
