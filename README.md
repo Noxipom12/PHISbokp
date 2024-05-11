@@ -6,6 +6,8 @@ WARNING INI HANYA UNTUK BAHAN ISENG
 
 2: run ngrok http 3000
 
+![Logo Proyek](https://telegra.ph/file/1f16b8a3ebae6f7ee3232.png)
+
 # PAKET YANG HARUS DI INSTALL 
 $ npm install express
 
